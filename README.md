@@ -5,12 +5,12 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hola+👋,+Soy+[Tu+Nombre];Desarrollador+FullStack;Amante+del+Código;Innovador+Tecnológico" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hola+👋,+Soy+MOMPROGAMER;Desarrollador+FullStack;Amante+del+Código;Innovador+Tecnológico" alt="Typing SVG">
 </h1>
 
 <!-- Banner con efecto hacker -->
 <p align="center">
-  <img src="https://i.imgur.com/7YXkW0v.gif" alt="hacker banner" width="800">
+  <img src="https://imgur.com/gallery/last-bus-of-night-XpHrccD" alt="hacker banner" width="800">
 </p>
 
 ---
